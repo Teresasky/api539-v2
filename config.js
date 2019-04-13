@@ -1,4 +1,4 @@
 var config = {
-  NYT_KEY : "0164a40fd8ec4882b506017689d52793"// NYTimes Key,
+  NYT_KEY : "vgtXHNriFBNhWedjLXonFy9RJIK58Xy4"// NYTimes Key,
   GOOGLE_BOOKS_KEY : "AIzaSyBqbSmLUdPMHeEwwvFidVG8WMQjt6vISd8"// Google Books Key
 }
